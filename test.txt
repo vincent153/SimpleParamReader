@@ -1,0 +1,3 @@
+#do not add space in params
+param1=0
+param2=hello
